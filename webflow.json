@@ -1,0 +1,6 @@
+{
+  "name": "assets-flow",
+  "publicDir": "dist",
+  "size": "default",
+  "apiVersion": "2"
+}
